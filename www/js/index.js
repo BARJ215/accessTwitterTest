@@ -10,7 +10,7 @@ function onDeviceReady() {
     $(document).on("click", "#searchButton", search);
     
 	//need to initialise OAuth here
-	OAuth.initialize('m0N0t9CreXNzuOZOfoM22IjsmpU');
+	OAuth.initialize('NQnBbUNJ8IEE5XiLus62BtCR0vg');
     console.log(OAuth.getVersion());
     
     //authorise
